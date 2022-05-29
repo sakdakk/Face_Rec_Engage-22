@@ -1,5 +1,5 @@
 # Face_Rec_Engage-22
-DEPENDENCIES:
+DEPENDENCIES:(USED IN VIRTUAL ENVIRONMENT)
 1. Python 3.x
 2. cmake
 3. dlib
